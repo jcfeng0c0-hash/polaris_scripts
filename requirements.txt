@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+astropy
+astropy-healpix
+h5py
+jupyterlab
+spectral-cube
